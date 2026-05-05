@@ -1,0 +1,10 @@
+2026-05-06 00:45:01,271 - DEBUG - This is a DEBUG message
+2026-05-06 00:45:01,272 - INFO - This is an INFO message
+2026-05-06 00:45:01,272 - WARNING - This is a WARNING message
+2026-05-06 00:45:01,273 - ERROR - Zero division error occurred
+Traceback (most recent call last):
+  File "c:\Users\RIFAT\OneDrive\Desktop\MY CODE 3.0\log_demo.py", line 31, in <module>
+    a / 0
+ZeroDivisionError: division by zero
+2026-05-06 00:45:01,274 - ERROR - This is an ERROR message
+2026-05-06 00:45:01,275 - CRITICAL - This is a CRITICAL message
